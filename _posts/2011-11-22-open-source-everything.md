@@ -48,15 +48,9 @@ Here are some examples of what we don't open source and why:
 
 Here are some examples of things we do open source and why:
 
-* Grit (general purpose Git bindings, useful for building many tools)
-* Ernie (general purpose BERT-RPC server)
-* Resque (general purpose job processing)
-* Jekyll (general purpose static site generator)
-* Gollum (general purpose wiki app)
-* Hubot (general purpose chat bot)
-* Charlock_Holmes (general purpose character encoding detection)
-* Albino (general purpose syntax highlighting)
-* Linguist (general purpose filetype detection)
+*如果在GitHub项目初始化之前，数据已经存在于本地版本库中，显然像上面那样先克隆、再提交、后推送的方法就不适宜了。应该采用下面的方法。
+*为试验新的版本库初始化方法，先把刚刚新建的测试项目“helloworld”删除，同时也将本地工作区中克隆的“helloworld”删除。警告：删除项目的操作非常危险，不可恢复，慎用。
+*点击项目首页中项目名称旁边的“Admin”
 
 Notice that everything we keep closed has specific business value that could be compromised by giving it away to our competitors. Everything we open is a general purpose tool that can be used by all kinds of people and companies to build all kinds of things.
 
