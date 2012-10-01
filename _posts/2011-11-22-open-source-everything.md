@@ -8,7 +8,7 @@ title: 测试文章
 
 <p class="meta">22 Nov 2011 - San Francisco</p>
 
-測試文章
+測試文章.继续测试
 When 
 -----------------------------
 
