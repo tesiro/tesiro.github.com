@@ -23,4 +23,3 @@ CCAV做了个2B式的调查：你幸福吗？
 欢迎大家继续补充
 --
 
-[Discuss this post on Hacker News](http://news.ycombinator.com/item?id=1627246)
